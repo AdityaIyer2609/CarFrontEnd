@@ -91,11 +91,11 @@ img{
 }
 @media screen and (max-width:1200px){  
 	    .content{
-			width:100%;
+			width:auto;
 			text-align:center;
 		}
 		.image{
-			width:100%;
+			width:auto;
 			position:absolute;
 			bottom:-5%;
 			display:flex;
@@ -107,7 +107,7 @@ img{
 }
 @media screen and (max-width:576px){
 	    .content{
-			width:100%;
+			width:auto;
 			text-align:center;
 		}
 		.content h1{
@@ -120,7 +120,7 @@ img{
 			margin-bottom:5%;
 		}
 		.image{
-			width:100%;
+			width:auto;
 			position:absolute;
 			bottom:-5%;
 			display:flex;
